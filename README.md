@@ -34,6 +34,8 @@ yourvenv\Scripts\activate
 ```bash
 pip install -r requirements.txt
 ```
+### 3. Download Model 
+Download fine-tuned models from [Google Drive](https://drive.google.com/drive/folders/1wa5IUGUnnOq4-UKBdjlLWspO4Dt15qeq?usp=sharing).
 
 ## 🚀 Run Inference (Local)
 - Summarization:
