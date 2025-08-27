@@ -1,0 +1,8 @@
+transformers>=4.55.0
+datasets>=2.20.0
+evaluate>=0.4.2
+accelerate>=1.10.0
+torch>=2.1.0
+sentencepiece
+sacremoses
+scikit-learn
