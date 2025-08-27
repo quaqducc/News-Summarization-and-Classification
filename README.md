@@ -6,6 +6,7 @@ This project provides two main NLP tasks using Hugging Face Transformers:
 2. **Text Classification** – Classify news articles into categories using **DistilBERT (fine-tuned on AG News)**.
 
 ## 📂 Project Structure
+```bash
 News-Summarization-and-Classification/
 │── notebooks/
 │ ├── summarization_train.ipynb # Notebook for summarization training
@@ -17,7 +18,7 @@ News-Summarization-and-Classification/
 │── requirements.txt # Project dependencies
 │── Dockerfile # Docker build file
 │── README.md # Documentation
-
+```
 
 ---
 
